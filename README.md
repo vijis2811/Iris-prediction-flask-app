@@ -49,7 +49,7 @@ This project is created for learning purposes, especially helpful for beginners 
 
 *Building user-friendly prediction forms
 
-*Improvements
+Improvements
 
 You can extend the project by adding:
 
