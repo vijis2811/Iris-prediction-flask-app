@@ -60,4 +60,4 @@ You can extend the project by adding:
 
 *API endpoint version
 
-Docker deployment
+*Docker deployment
