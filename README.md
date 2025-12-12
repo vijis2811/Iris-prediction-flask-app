@@ -1,5 +1,3 @@
-Iris Flower Prediction Web App (Flask + Machine Learning)
-
 This repository contains a simple Flask web application that uses a Logistic Regression model trained on the Iris dataset to predict the species of an iris flower based on user-entered measurements.
 
 The project demonstrates:
